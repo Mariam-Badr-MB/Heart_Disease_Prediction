@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction Project
+#  Heart Disease Prediction Project
 
 ## 🔍 Project Overview
 This project is a **machine learning application** that predicts the likelihood of **heart disease** based on patient health data.  
