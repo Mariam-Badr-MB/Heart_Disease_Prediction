@@ -12,3 +12,4 @@ seaborn>=0.12.2        # Statistical data visualization
 
 # Web App
 streamlit>=1.20.0      # Interactive web application framework
+
